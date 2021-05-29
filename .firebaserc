@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "oshop-ec1bc": {
+      "hosting": {
+        "oshop": [
+          "oshop-ec1bc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "oshop-ec1bc"
+  }
+}
